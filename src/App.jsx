@@ -13,6 +13,7 @@ function App() {
       {/* <h2>Docker and kubernates</h2> */}
       <h1>Welcome to react on ECR</h1>
       <p>Deploy by Saksham Garg</p>
+      <h1>this is testing cicd pipelines</h1>
     </div>
   )
 }
