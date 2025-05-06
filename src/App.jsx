@@ -11,9 +11,9 @@ function App() {
       {/* <h1>Hellow Aws Docker kubernates is Going On</h1> */}
       {/* <h2>My ReactJs app is working</h2> */}
       {/* <h2>Docker and kubernates</h2> */}
-      <h1>Welcome to react on ECR</h1>
+      <h1>This is testing cicd pipelines</h1>
+      {/* <h1>Welcome to react on ECR</h1> */}
       <p>Deploy by Saksham Garg</p>
-      <h1>this is testing cicd pipelines</h1>
     </div>
   )
 }
