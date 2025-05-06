@@ -12,6 +12,7 @@ function App() {
       {/* <h2>My ReactJs app is working</h2> */}
       {/* <h2>Docker and kubernates</h2> */}
       <h1>This is testing cicd pipelines</h1>
+      <p>hello</p>
       {/* <h1>Welcome to react on ECR</h1> */}
       <p>Deploy by Saksham Garg</p>
     </div>
